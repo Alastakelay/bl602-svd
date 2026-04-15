@@ -140,7 +140,7 @@
 						<fields>
 							<field>
 								<name>clicIntIP_3</name>
-								<description>Machine Software Interrupt Pending (msip)</description>
+								<description>Machine Software Interrupt Pending (MSIP)</description>
 								<lsb>24</lsb>
 								<msb>24</msb>
 								<access>read-write</access>
@@ -173,7 +173,7 @@
 						<fields>
 							<field>
 								<name>clicIntIP_7</name>
-								<description>Machine Timer Interrupt Pending (mtip)</description>
+								<description>Machine Timer Interrupt Pending (MTIP)</description>
 								<lsb>24</lsb>
 								<msb>24</msb>
 								<access>read-only</access>
@@ -206,7 +206,7 @@
 						<fields>
 							<field>
 								<name>clicIntIP_11</name>
-								<description>Machine External Interrupt Pending (meip)</description>
+								<description>Machine External Interrupt Pending (MEIP)</description>
 								<lsb>24</lsb>
 								<msb>24</msb>
 								<access>read-only</access>
@@ -257,7 +257,7 @@
 							</field>
 							<field>
 								<name>clicIntIP_12</name>
-								<description>CLIC Software Interrupt Pending (csip)</description>
+								<description>CLIC Software Interrupt Pending (CSIP)</description>
 								<lsb>0</lsb>
 								<msb>0</msb>
 								<access>read-write</access>
